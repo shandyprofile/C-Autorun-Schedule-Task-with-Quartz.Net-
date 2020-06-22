@@ -1,1 +1,3 @@
-# C-Autorun-Schedule-Task-with-Quartz.Net-
+# C# Autorun Schedule Task with Quartz.Net
+
+Using library Quartz.Net
